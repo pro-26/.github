@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1219a295-cd0f-4752-9e93-b3ed945fd947/deploy-status)](https://app.netlify.com/projects/pro26/deploys)
 # 🚀 Pro26 – Build Future Tech, Today
 
 **Pro26** is a futuristic internship and project-based learning platform empowering students and fresh graduates to gain real-world experience through live client projects, expert mentorship, and top-tier technology stacks.
