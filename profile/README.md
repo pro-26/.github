@@ -58,4 +58,4 @@ To bridge the gap between academic learning and industry expectations by enablin
 
 ---
 
-© 2050 Pro26. All rights reserved.
+© 2025 Pro26. All rights reserved.
