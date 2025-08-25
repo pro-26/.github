@@ -8,7 +8,7 @@
 ## 🌟 Highlights
 
 - ✅ **6-Month Free Internship Program**
-- 💰 **Stipend After 3 Months** (Performance-based)
+- 💰 **Experience Certificate** (Performance-based)
 - 👨‍💻 **Work on Real Client Projects**
 - 🧠 **Mentorship from Industry Experts**
 - 🧪 **Code Reviews, Pair Programming & GitHub Contributions**
